@@ -5,10 +5,10 @@
 
 @layer components {
     .form-style {
-      @apply rounded-md py-3 px-3 focus:placeholder:opacity-0 focus:outline-none
+      @apply rounded-md py-4 px-5 focus:placeholder:opacity-0 focus:outline-none w-96 max-tablet:w-72
     }
 
     .button-style {
-      @apply bg-blue-500 rounded-md w-20 h-10 cursor-pointer text-white
+      @apply bg-green-600 rounded-md min-w-24 px-2 h-10 cursor-pointer text-white
     }
 }

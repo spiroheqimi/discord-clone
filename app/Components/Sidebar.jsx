@@ -13,7 +13,5 @@ export default function Sidebar() {
 
 
 /* 
-  Will pass some icons into the sidebar
-    - Can make a component tht showes all icons, by having a object or map of icons -- later progress
-    - 
+  
 */
